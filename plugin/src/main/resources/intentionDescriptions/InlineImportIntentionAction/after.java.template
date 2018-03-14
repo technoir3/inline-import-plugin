@@ -1,0 +1,5 @@
+public class X {
+    public rx.Observable<Integer> {
+        return rx.Observable.just(42);
+    }
+}

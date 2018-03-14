@@ -1,0 +1,7 @@
+import rx.Observable;
+
+public class X {
+    public Observable<Integer> {
+        return Observable.just(42);
+    }
+}

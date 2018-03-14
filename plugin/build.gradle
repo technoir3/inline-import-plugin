@@ -1,0 +1,12 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.2.19'
+}
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+intellij {
+    version '2017.1'
+    updateSinceUntilBuild false
+}
